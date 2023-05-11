@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Tanbin
-#### I am a Web developer, have skill on python, java, HTML, project Management, Cyber security, AutoCAD
 ![I am a Web developer, have skill on python, java, HTML, project Management, Cyber security, AutoCAD](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/346624881_536944811749267_2673966950443288268_n.png?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHmfeSLQfPoWfXcMRoqTlDGDn4foW5xbLAOfh-hbnFssCsTpQikmPbI-9dTOPWzlXk3U3thQFqG6-pTz0Wq94rq&_nc_ohc=WlpZ9NLdesgAX_kKHPs&_nc_ht=scontent.fdac24-2.fna&oh=00_AfCUXYGCP-YXP5tXkO6ezFZMiw3r1go6sDYGQIqHff24nQ&oe=64614327)
 
+### Hi there 👋, my name is Tanbin
+#### I am a Web developer, have skill on python, java, HTML, project Management, Cyber security, AutoCAD
 I'm a Front End Web developer who is passionate about making free website with 100% client satisfaction. I have also knowledge in project management . I'm also skilled on python, Ruby, HTML,CSS,JS,C,C++, java. I'm a quick learner. I love to solve real life problem. and learn from them. I pride myself on doing quality work and maintain good communication. I use different technology for my work. Nothing permanent. I'm too adaptable.
 
 Skills: Python, Java, CSS, HTML, C, C++, Ruby, C#
